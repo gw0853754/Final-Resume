@@ -1,0 +1,54 @@
+html
+{
+  background-color: #006622;
+}
+.bio
+{
+  background-color:rgba(192,192,192,0.3);
+  color: white;
+  padding: 50px;
+}
+h1
+{
+  color: white;
+  text-align: center;
+}
+body
+{
+  background-color:#991f00;
+}
+.boarder
+{
+  border-style: double double none double;
+}
+img
+{
+  display: block;
+  margin-left: auto;
+    margin-right: auto;
+}
+.box
+{
+  background-color: #006622;
+  border: 15px solid #528E28;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: #489511;
+}
+a:hover {
+  color: #EA928A;
+}
+a:active {
+  color: #DA1301;
+}
+p
+{
+  color: #EA928A;
+  text-align: right;
+}
